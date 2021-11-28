@@ -1,2 +1,2 @@
 print('Testing Auto Git Push')
-print('test2')
+print('test1')
